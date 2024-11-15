@@ -1,0 +1,65 @@
+[15:38:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:38:07] [ServerMain/INFO]: Loaded 1370 recipes
+[15:38:07] [ServerMain/INFO]: Loaded 1481 advancements
+[15:38:07] [Server thread/INFO]: Starting minecraft server version 24w46a
+[15:38:07] [Server thread/INFO]: Loading properties
+[15:38:07] [Server thread/INFO]: Default game type: SURVIVAL
+[15:38:07] [Server thread/INFO]: Generating keypair
+[15:38:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:38:07] [Server thread/INFO]: Using epoll channel type
+[15:38:07] [Server thread/INFO]: Preparing level "world"
+[15:38:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:38:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:38:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:38:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:38:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:38:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:38:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:38:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:38:11] [Server thread/INFO]: Time elapsed: 3351 ms
+[15:38:11] [Server thread/INFO]: Done (3.667s)! For help, type "help"
+[15:38:20] [User Authenticator #1/INFO]: UUID of player InfiniteImag1n is 65d21e4d-0270-4d11-b17b-e1c383d718b9
+[15:38:21] [Server thread/INFO]: InfiniteImag1n[/127.197.40.44:44153] logged in with entity id 10 at (1065.5399767728486, 62.11076431274414, -4738.636326592057)
+[15:38:21] [Server thread/INFO]: InfiniteImag1n joined the game
+[15:38:21] [User Authenticator #2/INFO]: UUID of player r0bert_138 is c67be806-ce1c-4f23-b095-5fb678f38187
+[15:38:22] [Server thread/INFO]: r0bert_138[/127.208.38.163:35681] logged in with entity id 17 at (1065.5399767728486, 62.11076431274414, -4738.636326592057)
+[15:38:22] [Server thread/INFO]: r0bert_138 joined the game
+[15:41:54] [Server thread/INFO]: <InfiniteImag1n> os prima insula care o gasim este basa
+[15:42:00] [Server thread/INFO]: <InfiniteImag1n> os prima insula care o gasim este basa
+[15:45:15] [Server thread/INFO]: <InfiniteImag1n> barca
+[15:46:36] [Server thread/INFO]: <InfiniteImag1n> iti voi arata un truc care la m invata
+[15:48:04] [Server thread/INFO]: <InfiniteImag1n> dar maine poti vorbi
+[15:48:11] [Server thread/INFO]: <r0bert_138> da
+[15:48:15] [Server thread/INFO]: <InfiniteImag1n> ok
+[15:48:27] [Server thread/INFO]: <InfiniteImag1n> aici iti place
+[15:48:42] [Server thread/INFO]: <r0bert_138> ok
+[15:49:03] [Server thread/INFO]: <r0bert_138> ia
+[15:49:09] [Server thread/INFO]: <InfiniteImag1n> stai
+[15:49:22] [Server thread/INFO]: <InfiniteImag1n> lasa tot aici
+[15:49:43] [Server thread/INFO]: r0bert_138 lost connection: Disconnected
+[15:49:43] [Server thread/INFO]: r0bert_138 left the game
+[15:52:11] [Server thread/INFO]: InfiniteImag1n has made the advancement [Stone Age]
+[16:02:41] [Server thread/INFO]: InfiniteImag1n has made the advancement [Getting an Upgrade]
+[16:38:19] [Server thread/INFO]: [Not Secure] [Server] hay
+[16:48:38] [Server thread/INFO]: [Not Secure] [Server] hay
+[17:04:42] [Server thread/INFO]: [Not Secure] [Server] let s go
+[17:22:37] [Server thread/INFO]: InfiniteImag1n has made the advancement [A Seedy Place]
+[17:26:13] [Server thread/INFO]: [Not Secure] [Server] first step
+[17:37:43] [Server thread/INFO]: InfiniteImag1n lost connection: Disconnected
+[17:37:43] [Server thread/INFO]: InfiniteImag1n left the game
+[17:38:38] [User Authenticator #3/INFO]: UUID of player InfiniteImag1n is 65d21e4d-0270-4d11-b17b-e1c383d718b9
+[17:38:39] [Server thread/INFO]: InfiniteImag1n[/127.197.40.44:48157] logged in with entity id 23625 at (2467.699999988079, 63.0, -5767.462755175408)
+[17:38:39] [Server thread/INFO]: InfiniteImag1n joined the game
+[18:40:46] [Server thread/INFO]: [Not Secure] [Server] stay
+[18:46:14] [Server thread/INFO]: InfiniteImag1n lost connection: Disconnected
+[18:46:14] [Server thread/INFO]: InfiniteImag1n left the game
+[18:46:17] [User Authenticator #4/INFO]: UUID of player InfiniteImag1n is 65d21e4d-0270-4d11-b17b-e1c383d718b9
+[18:46:18] [Server thread/INFO]: InfiniteImag1n[/127.197.40.44:58743] logged in with entity id 32345 at (2467.699999988079, 63.0, -5767.462255368523)
+[18:46:18] [Server thread/INFO]: InfiniteImag1n joined the game
+[18:52:02] [Server thread/INFO]: [Not Secure] [Server] stay
+[19:54:13] [Server thread/INFO]: InfiniteImag1n has made the advancement [We Need to Go Deeper]
+[19:54:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2840ms or 56 ticks behind
+[20:05:06] [Server thread/INFO]: InfiniteImag1n has made the advancement [This Boat Has Legs]
+[20:09:20] [Server thread/INFO]: InfiniteImag1n has completed the challenge [Hot Tourist Destinations]
+[20:12:03] [Server thread/INFO]: InfiniteImag1n has made the advancement [A Terrible Fortress]
+[20:15:22] [Server thread/INFO]: InfiniteImag1n has made the advancement [Into Fire]
