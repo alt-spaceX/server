@@ -1,0 +1,118 @@
+[12:20:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:20:16] [ServerMain/INFO]: Loaded 1370 recipes
+[12:20:16] [ServerMain/INFO]: Loaded 1481 advancements
+[12:20:16] [Server thread/INFO]: Starting minecraft server version 24w46a
+[12:20:16] [Server thread/INFO]: Loading properties
+[12:20:16] [Server thread/INFO]: Default game type: SURVIVAL
+[12:20:16] [Server thread/INFO]: Generating keypair
+[12:20:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:20:16] [Server thread/INFO]: Using epoll channel type
+[12:20:16] [Server thread/INFO]: Preparing level "world"
+[12:20:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:20:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:20:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:20:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:20:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:20:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:20:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:20:19] [Server thread/INFO]: Time elapsed: 3008 ms
+[12:20:19] [Server thread/INFO]: Done (3.303s)! For help, type "help"
+[12:21:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:22:03] [User Authenticator #1/INFO]: UUID of player InfiniteImag1n is 65d21e4d-0270-4d11-b17b-e1c383d718b9
+[12:22:03] [Server thread/INFO]: InfiniteImag1n[/127.197.40.44:33961] logged in with entity id 101 at (-30.29958048500653, 68.0, 1.529349399077587)
+[12:22:03] [Server thread/INFO]: InfiniteImag1n joined the game
+[12:28:18] [Server thread/INFO]: InfiniteImag1n has made the advancement [Monster Hunter]
+[13:43:27] [Server thread/INFO]: InfiniteImag1n has made the advancement [Fishy Business]
+[13:51:32] [Server thread/INFO]: InfiniteImag1n has made the advancement [Sweet Dreams]
+[14:10:17] [Server thread/INFO]: InfiniteImag1n lost connection: Disconnected
+[14:10:17] [Server thread/INFO]: InfiniteImag1n left the game
+[14:10:53] [User Authenticator #2/INFO]: UUID of player InfiniteImag1n is 65d21e4d-0270-4d11-b17b-e1c383d718b9
+[14:10:54] [Server thread/INFO]: InfiniteImag1n[/127.197.40.44:40747] logged in with entity id 16639 at (22.65663824281703, 88.0, -36.18663433708705)
+[14:10:54] [Server thread/INFO]: InfiniteImag1n joined the game
+[14:13:02] [User Authenticator #3/INFO]: UUID of player r0bert_138 is c67be806-ce1c-4f23-b095-5fb678f38187
+[14:13:02] [Server thread/INFO]: r0bert_138[/127.208.38.163:46089] logged in with entity id 17111 at (1.5, 65.0, 1.5)
+[14:13:02] [Server thread/INFO]: r0bert_138 joined the game
+[14:13:38] [Server thread/INFO]: r0bert_138 has made the advancement [Fishy Business]
+[14:16:00] [Server thread/INFO]: <InfiniteImag1n> pe discord poti vorbi
+[14:16:10] [Server thread/INFO]: <r0bert_138> mai tarziu
+[14:17:08] [Server thread/INFO]: <InfiniteImag1n> avem nevoie duar de 2 vilagers
+[14:17:18] [Server thread/INFO]: <r0bert_138> ok
+[14:17:51] [Server thread/INFO]: <InfiniteImag1n> ia un cal
+[14:18:19] [Server thread/INFO]: <InfiniteImag1n> cu mana guala
+[14:18:21] [Server thread/INFO]: InfiniteImag1n has made the advancement [Best Friends Forever]
+[14:19:06] [Server thread/INFO]: r0bert_138 has made the advancement [Best Friends Forever]
+[14:23:26] [Server thread/INFO]: <InfiniteImag1n> slep
+[14:23:30] [Server thread/INFO]: r0bert_138 has made the advancement [Sweet Dreams]
+[14:24:18] [Server thread/INFO]: <InfiniteImag1n> sa imi spui cand poti vorbi
+[14:28:34] [Server thread/INFO]: InfiniteImag1n has made the advancement [Acquire Hardware]
+[14:33:16] [Server thread/INFO]: <InfiniteImag1n> daca vrei putem merge in nether
+[14:36:46] [Server thread/INFO]: <InfiniteImag1n> ne trebuie lava lake
+[14:36:51] [Server thread/INFO]: <r0bert_138> k
+[14:36:59] [Server thread/INFO]: <InfiniteImag1n> poti vorbi?
+[14:37:14] [Server thread/INFO]: <r0bert_138> nu
+[14:41:02] [Server thread/INFO]: <InfiniteImag1n> omg
+[14:42:17] [Server thread/INFO]: <InfiniteImag1n> sabie sau topor
+[14:42:26] [Server thread/INFO]: <r0bert_138> sabie
+[14:43:07] [Server thread/INFO]: <InfiniteImag1n> omg
+[14:44:06] [Server thread/INFO]: InfiniteImag1n has made the advancement [Not Today, Thank You]
+[14:44:08] [Server thread/INFO]: r0bert_138 has made the advancement [Monster Hunter]
+[14:44:16] [Server thread/INFO]: r0bert_138 has made the advancement [Voluntary Exile]
+[14:44:25] [Server thread/INFO]: <InfiniteImag1n> ai sticluta
+[14:44:30] [Server thread/INFO]: <r0bert_138> da
+[14:44:35] [Server thread/INFO]: <InfiniteImag1n> sa nu o bei
+[14:44:48] [Server thread/INFO]: <InfiniteImag1n> vino
+[14:45:34] [Server thread/INFO]: <InfiniteImag1n> crafting
+[14:46:08] [Server thread/INFO]: r0bert_138 has made the advancement [Not Today, Thank You]
+[14:46:39] [Server thread/INFO]: <InfiniteImag1n> iesim pe afara mergem la villagers
+[14:49:35] [Server thread/INFO]: <r0bert_138> da i
+[14:49:45] [Server thread/INFO]: InfiniteImag1n has made the advancement [Ol' Betsy]
+[14:49:45] [Server thread/INFO]: InfiniteImag1n has made the advancement [Take Aim]
+[14:50:45] [Server thread/INFO]: <InfiniteImag1n> dami lasoul
+[14:50:51] [Server thread/INFO]: <InfiniteImag1n> si o barca
+[14:51:08] [Server thread/INFO]: <InfiniteImag1n> lasoul
+[14:52:02] [Server thread/INFO]: <InfiniteImag1n> dormi
+[14:52:08] [Server thread/INFO]: <r0bert_138> e zi
+[14:53:54] [Server thread/INFO]: <InfiniteImag1n> am gasit
+[14:55:45] [Server thread/INFO]: InfiniteImag1n has made the advancement [Hot Stuff]
+[14:56:04] [Server thread/INFO]: <InfiniteImag1n> helo
+[14:56:16] [Server thread/INFO]: <r0bert_138> yes
+[14:56:56] [Server thread/INFO]: <InfiniteImag1n> acuma sa imi spui unde facem baza
+[14:57:04] [Server thread/INFO]: <InfiniteImag1n> sa facem si noi cum a facut tipul ala
+[14:57:07] [Server thread/INFO]: <r0bert_138> unde vrei tu
+[14:57:21] [Server thread/INFO]: <InfiniteImag1n> pai vine craciunu si ma gandeam in snow land
+[14:57:28] [Server thread/INFO]: <r0bert_138> ok
+[14:57:35] [Server thread/INFO]: <InfiniteImag1n> acum avem tot
+[14:57:51] [Server thread/INFO]: <InfiniteImag1n> iti place servarul
+[14:58:03] [Server thread/INFO]: <r0bert_138> da
+[15:04:04] [Server thread/INFO]: <InfiniteImag1n> padure roz
+[15:06:22] [Server thread/INFO]: <InfiniteImag1n> poti vorbi
+[15:06:31] [Server thread/INFO]: <r0bert_138> nu pot
+[15:06:46] [Server thread/INFO]: <r0bert_138> joc pana la 6
+[15:07:03] [Server thread/INFO]: <r0bert_138> sa gasim repede snow
+[15:08:07] [Server thread/INFO]: <r0bert_138> lasa i
+[15:08:10] [Server thread/INFO]: Villager cog['Nitwit'/34495, l='ServerLevel[world]', x=372.18, y=62.51, z=-3821.38] died, message: 'Nitwit was impaled by Drowned'
+[15:08:39] [Server thread/INFO]: <InfiniteImag1n> snow forest come
+[15:09:21] [Server thread/INFO]: <InfiniteImag1n> undita
+[15:11:20] [Server thread/INFO]: <InfiniteImag1n> lasou si barca
+[15:11:30] [Server thread/INFO]: <InfiniteImag1n> pescuieste te rog
+[15:14:57] [Server thread/INFO]: <InfiniteImag1n> gata
+[15:14:58] [Server thread/INFO]: <InfiniteImag1n> hai
+[15:15:13] [Server thread/INFO]: <InfiniteImag1n> nu ei comori decat daca pescuiesti la adancime
+[15:17:49] [Server thread/INFO]: <InfiniteImag1n> dormi
+[15:20:58] [Server thread/INFO]: <InfiniteImag1n> am gasit
+[15:22:09] [Server thread/INFO]: InfiniteImag1n has made the advancement [Light as a Rabbit]
+[15:22:21] [Server thread/INFO]: r0bert_138 has made the advancement [Light as a Rabbit]
+[15:22:48] [Server thread/INFO]: Villager cog['Villager'/34493, l='ServerLevel[world]', x=617.97, y=88.24, z=-4430.86] died, message: 'Villager froze to death'
+[15:23:04] [Server thread/INFO]: Villager cog['Villager'/48645, l='ServerLevel[world]', x=619.52, y=87.00, z=-4432.51] died, message: 'Villager was slain by InfiniteImag1n'
+[15:23:12] [Server thread/INFO]: <InfiniteImag1n> suck them
+[15:23:35] [Server thread/INFO]: <InfiniteImag1n> aici facem
+[15:24:46] [Server thread/INFO]: <InfiniteImag1n> yes
+[15:24:51] [Server thread/INFO]: <InfiniteImag1n> wtf
+[15:24:53] [Server thread/INFO]: <InfiniteImag1n> so nice
+[15:24:59] [Server thread/INFO]: <InfiniteImag1n> wow
+[15:25:09] [Server thread/INFO]: <InfiniteImag1n> here will be
+[15:26:04] [Server thread/INFO]: <InfiniteImag1n> we nee dvilagers
+[15:27:52] [Server thread/INFO]: <InfiniteImag1n> tu mai ai programul meu pentru pescuit?
+[15:27:59] [Server thread/INFO]: <r0bert_138> nu
+[15:28:10] [Server thread/INFO]: <InfiniteImag1n> iti trimit altul lam facut mult mai bun!
+[15:28:33] [Server thread/INFO]: <InfiniteImag1n> si acum poti sa tai si lemne
